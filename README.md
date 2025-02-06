@@ -33,7 +33,3 @@ O código contém duas funções principais:
 - Exibir a lista de amigos adicionados antes do sorteio.
 - Impedir a adição de nomes duplicados.
 - Implementar um sistema de remoção de nomes da lista.
-
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo conforme necessário. 🚀
